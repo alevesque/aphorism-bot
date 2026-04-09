@@ -2,27 +2,6 @@
 
 Daily aphorisms posted to a Telegram group, drawn from antinomian and morally provocative thinkers.
 
-## Authors included (115 quotes)
-
-| Author | Quotes |
-|---|---|
-| Oscar Wilde | 16 |
-| Niccolo Machiavelli | 12 |
-| Anton LaVey | 12 |
-| Friedrich Nietzsche | 16 |
-| Aleister Crowley | 9 |
-| Marquis de Sade | 7 |
-| H. L. Mencken | 8 |
-| Voltaire | 9 |
-| Ambrose Bierce | 8 |
-| Charles Baudelaire | 6 |
-| Max Stirner | 6 |
-| Lord Byron | 6 |
-
-> **Note on James Mason:** You listed James Mason among your requested authors.
-> The British actor James Mason (1909-1984) is not known for philosophical aphorisms.
-> If you meant a different author, add their quotes directly to  following the existing format.
-
 ## Setup
 
 ### 1. Install dependencies
