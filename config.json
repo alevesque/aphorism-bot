@@ -1,0 +1,11 @@
+{
+  "_comment": "Set chat_id to your group chat ID (negative number). enabled_authors: [] means all authors.",
+  "bot_token": "",
+  "chat_id": "",
+  "post_hour": 21,
+  "post_minute": 0,
+  "timezone": "America/Los_Angeles",
+  "enabled_authors": [],
+  "anthropic_api_key": "",
+  "request_model": "claude-haiku-4-5"
+}
